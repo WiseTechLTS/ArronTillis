@@ -4,7 +4,7 @@
 
 .. figure:: https://raw.githubusercontent.com/searxng/searxng/master/src/brand/searxng.svg
    :target: https://docs.searxng.org/
-   :alt: SearXNG
+   :alt: ArronTillis
    :width: 100%
    :align: center
 

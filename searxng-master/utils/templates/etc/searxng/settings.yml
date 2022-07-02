@@ -8,7 +8,7 @@ general:
   # Debug mode, only for development
   debug: false
   # change displayed name
-  # instance_name: "SearXNG"
+  # instance_name: "Arron"
 
 search:
   # Filter results. 0: None, 1: Moderate, 2: Strict
